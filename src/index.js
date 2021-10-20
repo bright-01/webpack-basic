@@ -1,5 +1,6 @@
 import _ from 'lodash';
 import {consoleLogText} from './test'
+import '../base.css';
 function component () {
     var element = document.createElement('div');
     consoleLogText();
